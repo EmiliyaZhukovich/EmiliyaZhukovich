@@ -2,14 +2,14 @@
 
 ⚡ **Desired Position**: Backend Developer & Systems Analyst
 
-🐾 I'm passionate about backend development and systems analysis because these fields allow me to create efficient, scalable systems that power applications and optimize business processes. I enjoy the challenge of designing robust architectures, solving complex technical problems, and ensuring seamless integration between technology and business operations.
+🐾 I am passionate about backend development and system analysis because these areas will allow me to create efficient, scalable systems that will support applications and optimize business processes.
 
 💬 **Skills**:
-- **Backend Development**: Python, Django, Flask, RESTful APIs, SQL
+- **Backend Development**: Python, Flask, RESTful APIs, SQL
 - **System Analysis**: Requirements gathering, process modeling, UML, business process analysis, solution design
 - **Programming Languages**: Python, C, C++, HTML, CSS
-- **Databases**: SQL, PostgreSQL, MySQL, NoSQL
-- **Tools**: Git, Docker, Kubernetes, Jenkins, JIRA
+- **Databases**: MySQL
+- **Tools**: Git, Docker
 - **Additional**: Problem-solving, critical thinking, communication skills, English proficiency
 
 🌱 **Personal Strengths**:
