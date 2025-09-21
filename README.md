@@ -2,7 +2,7 @@
 
 ## 💡 Backend Developer
 
-🐾 I am passionate about backend development because 
+🐾 I am passionate about backend development because it allows me to create the hidden engine that powers applications, ensuring speed, security, and stability for users.
 
 💬 **Skills**:
 - **Backend Development**: Python, Flask, RESTful APIs, SQL, Fast API, Alembic
