@@ -5,7 +5,7 @@
 🐾 I am passionate about backend development because it allows me to create the hidden engine that powers applications, ensuring speed, security, and stability for users.
 
 💬 **Skills**:
-- **Backend Development**: Python, Flask, RESTful APIs, SQL, Fast API, Alembic
+- **Backend Development**: Python, Flask, RESTful APIs, SQL, Fast API, Alembic, Django, DRF
 - **Programming Languages**: Python, C, HTML, CSS, TypeScript
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, Postman, Linux, Keycloak, Figma
